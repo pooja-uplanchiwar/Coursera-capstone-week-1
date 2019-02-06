@@ -1,2 +1,2 @@
-# Coursera-capstone-week-1
+# Coursera-capstone
 Week 1 submission for capstone
